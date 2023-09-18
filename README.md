@@ -8,6 +8,9 @@ in making precise shots and improving their gameplay.
 
 <h2>Key Features:</h2>
 
-Real-time analysis of the pool table, cues, and balls.
-Prediction of the cue ball's path based on shot parameters.
-Potential integration with guidance for better shots.
+<ul>
+  <li>Real-time analysis of the pool table, cues, and balls.</li>
+  <li>Prediction of the cue ball's path based on shot parameters.</li>
+  <li>Potential integration with guidance for better shots.</li>
+</ul>
+
